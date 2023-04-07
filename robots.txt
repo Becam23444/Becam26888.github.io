@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://becam23444.github.io/Becam26888.github.io/index.xml
